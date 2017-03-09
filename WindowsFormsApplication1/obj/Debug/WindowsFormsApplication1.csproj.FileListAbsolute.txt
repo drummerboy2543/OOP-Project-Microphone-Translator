@@ -1,0 +1,11 @@
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\College\Spring 2016\Computer Networks\Homework\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\College\Spring 2016\Computer Networks\Homework\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\College\Spring 2016\Computer Networks\Homework\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\College\Spring 2016\Computer Networks\Homework\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\College\Spring 2016\Computer Networks\Homework\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\College\Spring 2016\Computer Networks\Homework\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\College\Spring 2016\Computer Networks\Homework\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\College\Spring 2016\Computer Networks\Homework\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\College\Spring 2016\Computer Networks\Homework\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\College\Spring 2016\Computer Networks\Homework\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NAudio.dll
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\College\Spring 2016\Computer Networks\Homework\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NAudio.xml
