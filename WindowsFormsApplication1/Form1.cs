@@ -6,7 +6,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
-namespace WindowsFormsApplication1
+namespace MicrophoneRecord
 {
     public partial class Form1 : Form
     {

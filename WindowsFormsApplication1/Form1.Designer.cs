@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace MicrophoneRecord
 {
     partial class Form1
     {

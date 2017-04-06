@@ -31,3 +31,15 @@ C:\Users\Andrew\Documents\College\spring 2017\Object Oriented Programming\Mic Pr
 C:\Users\Andrew\Documents\College\spring 2017\Object Oriented Programming\Mic Project\trunk\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\Andrew\Documents\College\spring 2017\Object Oriented Programming\Mic Project\trunk\WindowsFormsApplication1\obj\Debug\MicrophoneRecord.Properties.Resources.resources
 C:\Users\Andrew\Documents\College\spring 2017\Object Oriented Programming\Mic Project\trunk\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\College\spring 2017\Object_Oriented_Programming\Mic Project\trunk\WindowsFormsApplication1\bin\Debug\MicrophoneRecord.exe.config
+C:\Users\Andrew\Documents\College\spring 2017\Object_Oriented_Programming\Mic Project\trunk\WindowsFormsApplication1\obj\Debug\MicrophoneRecord.exe
+C:\Users\Andrew\Documents\College\spring 2017\Object_Oriented_Programming\Mic Project\trunk\WindowsFormsApplication1\obj\Debug\MicrophoneRecord.pdb
+C:\Users\Andrew\Documents\College\spring 2017\Object_Oriented_Programming\Mic Project\trunk\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\College\spring 2017\Object_Oriented_Programming\Mic Project\trunk\WindowsFormsApplication1\obj\Debug\MicrophoneRecord.Form1.resources
+C:\Users\Andrew\Documents\College\spring 2017\Object_Oriented_Programming\Mic Project\trunk\WindowsFormsApplication1\obj\Debug\MicrophoneRecord.LoginForm.resources
+C:\Users\Andrew\Documents\College\spring 2017\Object_Oriented_Programming\Mic Project\trunk\WindowsFormsApplication1\obj\Debug\MicrophoneRecord.Properties.Resources.resources
+C:\Users\Andrew\Documents\College\spring 2017\Object_Oriented_Programming\Mic Project\trunk\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\College\spring 2017\Object_Oriented_Programming\Mic Project\trunk\WindowsFormsApplication1\bin\Debug\MicrophoneRecord.exe
+C:\Users\Andrew\Documents\College\spring 2017\Object_Oriented_Programming\Mic Project\trunk\WindowsFormsApplication1\bin\Debug\MicrophoneRecord.pdb
+C:\Users\Andrew\Documents\College\spring 2017\Object_Oriented_Programming\Mic Project\trunk\WindowsFormsApplication1\bin\Debug\NAudio.dll
+C:\Users\Andrew\Documents\College\spring 2017\Object_Oriented_Programming\Mic Project\trunk\WindowsFormsApplication1\bin\Debug\NAudio.xml
